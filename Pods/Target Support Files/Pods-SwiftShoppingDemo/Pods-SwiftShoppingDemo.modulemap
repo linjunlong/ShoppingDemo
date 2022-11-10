@@ -1,0 +1,6 @@
+framework module Pods_SwiftShoppingDemo {
+  umbrella header "Pods-SwiftShoppingDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
